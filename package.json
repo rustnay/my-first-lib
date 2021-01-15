@@ -1,0 +1,19 @@
+{
+  "name": "my-first-lib",
+  "version": "1.0.0",
+  "description": "A test lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustnay/my-first-lib.git"
+  },
+  "author": "Cristiano Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rustnay/my-first-lib/issues"
+  },
+  "homepage": "https://github.com/rustnay/my-first-lib#readme"
+}
